@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"unbreaking",
+			"icon-ss",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "unbreakingvs",
+	"difficulties": "ruim, Normal, Hard, naldo",
+	"weekCharacters": [
+"",
+"",
+"",
+	],
+	"storyName": "ASKEI NO",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "unbreaking",
+	"startUnlocked": true
+}
